@@ -1,0 +1,3 @@
+﻿  Windows Application.cpp
+C:\Users\Testk\source\repos\Windows Application\Windows Application.cpp(19,14): error C2731: 'WinMain': function cannot be overloaded
+C:\Users\Testk\source\repos\Windows Application\Windows Application.cpp(19): message : see declaration of 'WinMain'
